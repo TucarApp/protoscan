@@ -3,8 +3,8 @@ package protoscan_test
 import (
 	"fmt"
 
-	"github.com/paulmach/protoscan"
-	"github.com/paulmach/protoscan/internal/testmsg"
+	"github.com/TucarApp/protoscan"
+	"github.com/TucarApp/protoscan/internal/testmsg"
 	"google.golang.org/protobuf/proto"
 )
 

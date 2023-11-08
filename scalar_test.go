@@ -6,7 +6,7 @@ import (
 	"io"
 	"testing"
 
-	"github.com/paulmach/protoscan/internal/testmsg"
+	"github.com/TucarApp/protoscan/internal/testmsg"
 	"google.golang.org/protobuf/proto"
 )
 

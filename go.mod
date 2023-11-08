@@ -1,4 +1,4 @@
-module github.com/paulmach/protoscan
+module github.com/TucarApp/protoscan
 
 go 1.15
 
